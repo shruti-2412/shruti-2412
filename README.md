@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Shruti</h1>
 <h3 align="center">A Computer Engineering Student</h3>
 
-<img align="right" alt="image" height="200" src="https://cdn3d.iconscout.com/3d/premium/thumb/business-woman-working-on-laptop-6559610-5431849.png">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shruti-2412&label=Profile%20views&color=0e75b6&style=flat" alt="shruti-2412" /> </p>
+
+<img align="right" alt="image" width="200" src="https://cdn3d.iconscout.com/3d/premium/thumb/business-woman-working-on-laptop-6559610-5431849.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
