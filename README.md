@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shruti-2412&label=Profile%20views&color=0e75b6&style=flat" alt="shruti-2412" /> </p>
 
-<img align="right" alt="image" width="400" src="https://cdn3d.iconscout.com/3d/premium/thumb/business-woman-working-on-laptop-6559610-5431849.png">
+<img align="right" alt="image" width="320" src="https://cdn3d.iconscout.com/3d/premium/thumb/business-woman-working-on-laptop-6559610-5431849.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
